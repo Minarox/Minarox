@@ -1,11 +1,3 @@
-### Salut 👋
-Je suis Mathis SERRIERES MANIECKI, plus connu sous le pseudonyme "[Minarox](https://www.youtube.com/channel/UCznR2syShlluEzWRoD7XZRQ)" sur les internet, j'ai 24 ans et je suis passionné d'informatique et d'audiovisuel.
-Je prépare actuellement un [Master en Développement Informatique](https://www.epsi.fr/programmes/ingenierie-informatique/) après avoir fait une [Licence Pro en Développement Web](https://iut.univ-amu.fr/diplomes/licence-professionnelle-application-developpement-web-bigdata-ecommerce) ainsi qu'un [DUT Informatique](https://iut.univ-tlse3.fr/dut-informatique) et je fais également parti d'une petite association nommée [Rv & Co](https://www.youtube.com/channel/UCbTaxj24z8viOFR6NXMKurQ) faisant de petites productions audiovisuelles et courts métrages en tout genre.
-
-Vous retrouverez sur ce GitHub tous les projets, anciens et nouveaux, auxquels je participe.
-
-
-
 ### Hi, I am Mathis Serrieres Maniecki. 👋
 
 #### Welcome to my GitHub profile!
@@ -24,23 +16,21 @@ Vous retrouverez sur ce GitHub tous les projets, anciens et nouveaux, auxquels j
 ---
 <div style="text-align: justify"> 
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Jalpaiguri Government Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+Développeur Full-Stack de 24 ans du sud de la France, aussi connu sous le pseudonyme "Minarox" sur les internets.
+Autodidacte et passionné par les nouvelles technologies, l'informatique et l'audiovisuel, j'aime me tenir informé à propos de l'actualité technologique afin de répondre au mieux aux problèmes d'aujourd'hui.
+Fait parti des associations [Studio Rv & Co](https://rvandco.fr) et [Alpes Esport](https://alpes-esport.fr) en tant que développeur, régisseur, cadreur et monteur vidéo.
 
 </div>
 
-<!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />-->
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on Web Design Projects.
+- 🔭 I’m currently working on [RaceCast](https://github.com/Minarox/RaceCast-Emitter) and [RLTM](https://github.com/Minarox/RLTM).
 
-- 🌱 I’m currently learning Django & Reactjs framework.
+- 🌱 I’m currently learning Rust, Go and testing newer JavaScript frameworks.
 
-- 💬 Ask me anything 🤓
+- 📰 Veille technologique et scientifique quasi-constante
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathis-sm/)
-
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-- ⚡ Fun fact: The moon has moonquakes.
+- 💻 Aime passer des heures à coder
 
 ### 🛠 Tech Stack:
 
@@ -52,7 +42,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 
 ![Vue](https://img.shields.io/badge/-Vue-232323?logo=vue.js)
 ![Astro](https://img.shields.io/badge/-Astro-232323?logo=astro)
-![Vite](https://img.shields.io/badge/-Vite-232323?logo=vite)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-232323?logo=node.js)
 ![Bun](https://img.shields.io/badge/-Bun-232323?logo=bun)
 ![Electron](https://img.shields.io/badge/-Electron-232323?logo=electron)
