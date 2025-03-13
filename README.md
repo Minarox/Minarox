@@ -42,7 +42,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 
 ![Vue](https://img.shields.io/badge/-Vue-232323?logo=vue.js)
 ![Astro](https://img.shields.io/badge/-Astro-232323?logo=astro)
-![Elysia](https://img.shields.io/badge/-Elysia-232323?logo=elysia.js)
+![Elysia](https://img.shields.io/badge/-Elysia-232323)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-232323?logo=node.js)
 ![Bun](https://img.shields.io/badge/-Bun-232323?logo=bun)
 ![Electron](https://img.shields.io/badge/-Electron-232323?logo=electron)
@@ -57,5 +57,5 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 ![Linux](https://img.shields.io/badge/-Linux-232323?logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-232323?logo=docker)
 ![Git](https://img.shields.io/badge/-Git-232323?logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-232323?logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-232323)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-232323?logo=jetbrains)
