@@ -59,3 +59,4 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 ![Git](https://img.shields.io/badge/-Git-232323?logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-232323)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-232323?logo=jetbrains)
+![Copilot](https://img.shields.io/badge/-Copilot-232323?logo=github-copilot)
