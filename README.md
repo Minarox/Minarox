@@ -1,6 +1,6 @@
-### Hi, I am Mathis Serrieres Maniecki. 👋
+### Hi, I am Mathis Serrieres Maniecki 👋
 
-#### Welcome to my GitHub profile!
+#### Welcome to my GitHub profile
 
 <div>
 
@@ -14,25 +14,25 @@
 </div>
 
 ---
-<div style="text-align: justify"> 
+<div style="text-align: justify">
 
-Développeur Full-Stack de 24 ans du sud de la France, aussi connu sous le pseudonyme "Minarox" sur les internets.
-Autodidacte et passionné par les nouvelles technologies, l'informatique et l'audiovisuel, j'aime me tenir informé à propos de l'actualité technologique afin de répondre au mieux aux problèmes d'aujourd'hui.
-Fait parti des associations [Studio Rv & Co](https://rvandco.fr) et [Alpes Esport](https://alpes-esport.fr) en tant que développeur, régisseur, cadreur et monteur vidéo.
+24 years old full-stack developer from the south of France, also known as "Minarox" on the internet.  
+Self-taught and passionate about new technologies, computing, and audiovisual, I like to stay informed about technological news to best address today's problems.  
+Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport](https://alpes-esport.fr) as a developer, live producer, cameraman, and video editor.
 
 </div>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on [RaceCast](https://github.com/Minarox/RaceCast-Emitter) and [RLTM](https://github.com/Minarox/RLTM).
+- 🔭 I’m currently working on [RaceCast](https://github.com/Minarox/RaceCast-Emitter) and [RLTM](https://github.com/Minarox/RLTM)
 
-- 🌱 I’m currently learning Rust, Go and testing newer JavaScript frameworks.
+- 🌱 I’m currently testing newer JavaScript frameworks
 
-- 📰 Veille technologique et scientifique quasi-constante
+- 📰 Constant technological and scientific monitoring
 
-- 💻 Aime passer des heures à coder
+- 💻 Enjoys spending hours coding
 
-### 🛠 Tech Stack:
+### 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML-232323?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-232323?logo=css3)
@@ -42,6 +42,7 @@ Fait parti des associations [Studio Rv & Co](https://rvandco.fr) et [Alpes Espor
 
 ![Vue](https://img.shields.io/badge/-Vue-232323?logo=vue.js)
 ![Astro](https://img.shields.io/badge/-Astro-232323?logo=astro)
+![Elysia](https://img.shields.io/badge/-Elysia-232323?logo=elysia.js)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-232323?logo=node.js)
 ![Bun](https://img.shields.io/badge/-Bun-232323?logo=bun)
 ![Electron](https://img.shields.io/badge/-Electron-232323?logo=electron)
