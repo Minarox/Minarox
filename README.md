@@ -22,7 +22,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 
 </div>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="assets/night-coding.gif" />
 
 - 🔭 I’m currently working on [RaceCast](https://github.com/Minarox/RaceCast-Emitter) and [RLTM](https://github.com/Minarox/RLTM)
 
