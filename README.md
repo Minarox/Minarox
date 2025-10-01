@@ -16,7 +16,7 @@
 ---
 <div style="text-align: justify">
 
-24 years old full-stack developer from the south of France, also known as "Minarox" on the internet.  
+25 years old full-stack developer from the south of France, also known as "Minarox" on the internet.  
 Self-taught and passionate about new technologies, computing, and audiovisual, I like to stay informed about technological news to best address today's problems.  
 Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport](https://alpes-esport.fr) as a developer, live producer, cameraman, and video editor.
 
