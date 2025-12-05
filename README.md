@@ -41,15 +41,15 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### 🔭 I’m currently working on
 
 
-- [Minarox/custom-nginx-server](https://github.com/Minarox/custom-nginx-server) - Simple Nginx docker image with custom config. (`1 day ago`)
-- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place. (`4 days ago`)
-- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream. (`1 week ago`)
+- [Minarox/Custom-Nginx-Server](https://github.com/Minarox/Custom-Nginx-Server) - Simple Nginx docker image with custom config (`1 day ago`)
+- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`4 days ago`)
+- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`1 week ago`)
 - [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`2 weeks ago`)
 
 #### 🌱 My latest projects
 
 
-- [Minarox/custom-nginx-server](https://github.com/Minarox/custom-nginx-server) - Simple Nginx docker image with custom config.
+- [Minarox/Custom-Nginx-Server](https://github.com/Minarox/Custom-Nginx-Server) - Simple Nginx docker image with custom config
 - [Minarox/Website](https://github.com/Minarox/Website) - Minarox website
 - [Minarox/WSC-Server](https://github.com/Minarox/WSC-Server) - WebSocket server for testing communication with WebSocket Client plugin
 - [Minarox/WSC-Documentation](https://github.com/Minarox/WSC-Documentation) - Documentation for WebSocket Client plugin
