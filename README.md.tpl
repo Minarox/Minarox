@@ -16,47 +16,42 @@
 ---
 <div style="text-align: justify">
 
-25 years old full-stack developer from the south of France, also known as "Minarox" on the internet.
+25 years old full-stack developer from the south of France, also known as "[Minarox](https://minarox.fr)" on the internet.
 Self-taught and passionate about new technologies, computing, and audiovisual, I like to stay informed about technological news to best address today's problems.
-Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport](https://alpes-esport.fr) as a developer, live producer, cameraman, and video editor.
+Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](https://alpes-esport.fr) and Monster Gaming as developer, live producer, cameraman, video editor and Overwatch player.
 
 </div>
 
 <img align="right" height="270px" alt="GIF" src="assets/night-coding.gif" />
 
-- 🔭 I’m currently working on [RaceCast](https://github.com/Minarox/RaceCast-Emitter) and [RLTM](https://github.com/Minarox/RLTM)
+#### 🛠 Tech Stack
 
-- 🌱 I’m currently testing newer JavaScript frameworks
-
-- 📰 Constant technological and scientific monitoring
-
-- 💻 Enjoys spending hours coding
-
-### 🛠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML-232323?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-232323?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?logo=typescript)
-![Sass](https://img.shields.io/badge/-Sass-232323?logo=sass)
-
-![Vue](https://img.shields.io/badge/-Vue-232323?logo=vue.js)
 ![Astro](https://img.shields.io/badge/-Astro-232323?logo=astro)
+![Vue](https://img.shields.io/badge/-Vue-232323?logo=vue.js)
 ![Elysia](https://img.shields.io/badge/-Elysia-232323)
-![NodeJS](https://img.shields.io/badge/-NodeJS-232323?logo=node.js)
-![Bun](https://img.shields.io/badge/-Bun-232323?logo=bun)
-![Electron](https://img.shields.io/badge/-Electron-232323?logo=electron)
-
-![Flutter](https://img.shields.io/badge/-Flutter-232323?logo=flutter)
-![Python](https://img.shields.io/badge/-Python-232323?logo=python)
+![Go](https://img.shields.io/badge/-Go-232323?logo=go)
 ![C++](https://img.shields.io/badge/-C++-232323?logo=cplusplus)
-![PHP](https://img.shields.io/badge/-PHP-232323?logo=php)
+![Flutter](https://img.shields.io/badge/-Flutter-232323?logo=flutter)
 ![SQLite](https://img.shields.io/badge/-SQLite-232323?logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?logo=PostgreSQL)
-
 ![Linux](https://img.shields.io/badge/-Linux-232323?logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-232323?logo=docker)
-![Git](https://img.shields.io/badge/-Git-232323?logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-232323)
-![JetBrains](https://img.shields.io/badge/-JetBrains-232323?logo=jetbrains)
-![Copilot](https://img.shields.io/badge/-Copilot-232323?logo=github-copilot)
+
+#### 🔭 I’m currently working on
+
+{{range recentContributions 4}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} (`{{humanize .OccurredAt}}`)
+{{- end}}
+
+#### 🌱 My latest projects
+
+{{range recentRepos 4}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### ⭐ Some very good discoveries
+
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} (`{{humanize .StarredAt}}`)
+{{- end}}
