@@ -41,9 +41,9 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### 🔭 I’m currently working on
 
 
-- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`2 days ago`)
+- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`today`)
+- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`3 days ago`)
 - [Minarox/Custom-Nginx-Server](https://github.com/Minarox/Custom-Nginx-Server) - Simple Nginx docker image with custom config (`1 week ago`)
-- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`1 week ago`)
 - [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`3 weeks ago`)
 
 #### 🌱 My latest projects
@@ -57,8 +57,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
-- [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee. (`3 days ago`)
-- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (`3 days ago`)
-- [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool (`3 days ago`)
-- [Escartem/fwendator](https://github.com/Escartem/fwendator) - Generate an interactive graph of all your discord friends and the relations between them (`3 days ago`)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (`6 days ago`)
+- [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee. (`4 days ago`)
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (`4 days ago`)
+- [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool (`4 days ago`)
+- [Escartem/fwendator](https://github.com/Escartem/fwendator) - Generate an interactive graph of all your discord friends and the relations between them (`4 days ago`)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (`1 week ago`)
