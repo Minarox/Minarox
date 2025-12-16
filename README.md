@@ -41,10 +41,10 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### 🔭 I’m currently working on
 
 
-- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`3 days ago`)
-- [Minarox/Website](https://github.com/Minarox/Website) - Minarox website (`3 days ago`)
-- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`6 days ago`)
-- [Minarox/Custom-Nginx-Server](https://github.com/Minarox/Custom-Nginx-Server) - Simple Nginx docker image with custom config (`1 week ago`)
+- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`1 day ago`)
+- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`1 day ago`)
+- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`4 days ago`)
+- [Minarox/Website](https://github.com/Minarox/Website) - Minarox website (`4 days ago`)
 
 #### 🌱 My latest projects
 
