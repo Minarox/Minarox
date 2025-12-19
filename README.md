@@ -41,10 +41,10 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### 🔭 I’m currently working on
 
 
-- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`3 days ago`)
-- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`3 days ago`)
-- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`6 days ago`)
-- [Minarox/Website](https://github.com/Minarox/Website) - Minarox website (`6 days ago`)
+- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`4 days ago`)
+- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`4 days ago`)
+- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`1 week ago`)
+- [Minarox/Website](https://github.com/Minarox/Website) - Minarox website (`1 week ago`)
 
 #### 🌱 My latest projects
 
@@ -57,8 +57,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (`1 day ago`)
 - [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee. (`1 week ago`)
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (`1 week ago`)
 - [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool (`1 week ago`)
 - [Escartem/fwendator](https://github.com/Escartem/fwendator) - Generate an interactive graph of all your discord friends and the relations between them (`1 week ago`)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (`1 week ago`)
