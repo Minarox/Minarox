@@ -43,8 +43,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 
 - [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`1 week ago`)
 - [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`1 week ago`)
-- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`1 week ago`)
-- [Minarox/Website](https://github.com/Minarox/Website) - Minarox website (`1 week ago`)
+- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`2 weeks ago`)
+- [Minarox/Website](https://github.com/Minarox/Website) - Minarox website (`2 weeks ago`)
 
 #### 🌱 My latest projects
 
