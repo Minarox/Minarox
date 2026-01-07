@@ -1,4 +1,4 @@
-### Hi, I am Minarox 👋
+### Hi, I am Mathis Serrieres Maniecki 👋
 
 #### Welcome to my GitHub profile
 
@@ -8,6 +8,7 @@
 [<img align="left" alt="Minarox | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://twitch.tv/minarox)
 [<img align="left" alt="Minarox | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/@Minarox_)
 [<img align="left" alt="Minarox | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/minarox_)
+[<img align="left" alt="Minarox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/mathis-sm)
 [<img align="left" alt="Minarox | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:contact@minarox.fr)
 
 </div>
@@ -15,7 +16,7 @@
 ---
 <div style="text-align: justify">
 
-25 years old full-stack developer from the south of France.
+25 years old full-stack developer from the south of France, also known as "[Minarox](https://minarox.fr)" on the internet.
 Self-taught and passionate about new technologies, computing, and audiovisual, I like to stay informed about technological news to best address today's problems.
 Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](https://alpes-esport.fr) and Monster Gaming as developer, live producer, cameraman, video editor and Overwatch player.
 
