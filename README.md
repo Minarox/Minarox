@@ -58,7 +58,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 
 
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (`2 weeks ago`)
-- [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee. (`4 weeks ago`)
-- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (`4 weeks ago`)
-- [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool (`4 weeks ago`)
-- [Escartem/fwendator](https://github.com/Escartem/fwendator) - Generate an interactive graph of all your discord friends and the relations between them (`4 weeks ago`)
+- [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee. (`1 month ago`)
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (`1 month ago`)
+- [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool (`1 month ago`)
+- [Escartem/fwendator](https://github.com/Escartem/fwendator) - Generate an interactive graph of all your discord friends and the relations between them (`1 month ago`)
