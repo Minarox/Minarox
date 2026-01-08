@@ -57,7 +57,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (`2 weeks ago`)
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (`3 weeks ago`)
 - [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee. (`1 month ago`)
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (`1 month ago`)
 - [elonen/clapshot](https://github.com/elonen/clapshot) - Self hosted web based collaborative video review tool (`1 month ago`)
