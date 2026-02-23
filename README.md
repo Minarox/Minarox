@@ -57,8 +57,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
-- [ConnorGraham/Minecraft-Nintendo-Switch-Private-Server](https://github.com/ConnorGraham/Minecraft-Nintendo-Switch-Private-Server) -  (`1 day ago`)
+- [peakoss/anti-slop](https://github.com/peakoss/anti-slop) - A GitHub action that detects and automatically closes low-quality and AI slop PRs. (`1 day ago`)
+- [ConnorGraham/Minecraft-Nintendo-Switch-Private-Server](https://github.com/ConnorGraham/Minecraft-Nintendo-Switch-Private-Server) -  (`2 days ago`)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (`2 weeks ago`)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (`2 weeks ago`)
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (`2 weeks ago`)
-- [zaytri/slime2](https://github.com/zaytri/slime2) - Local Chat Overlay System for Twitch (`2 weeks ago`)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (`3 weeks ago`)
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (`3 weeks ago`)
