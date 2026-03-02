@@ -60,5 +60,5 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 - [peakoss/anti-slop](https://github.com/peakoss/anti-slop) - A GitHub action that detects and automatically closes low-quality and AI slop PRs. (`1 week ago`)
 - [ConnorGraham/Minecraft-Nintendo-Switch-Private-Server](https://github.com/ConnorGraham/Minecraft-Nintendo-Switch-Private-Server) -  (`1 week ago`)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (`3 weeks ago`)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (`3 weeks ago`)
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (`3 weeks ago`)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (`4 weeks ago`)
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (`4 weeks ago`)
