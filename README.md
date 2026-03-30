@@ -41,8 +41,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### 🔭 I’m currently working on
 
 
-- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`1 month ago`)
-- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`1 month ago`)
+- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`2 months ago`)
+- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`2 months ago`)
 - [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`3 months ago`)
 - [Minarox/Website](https://github.com/Minarox/Website) - Minarox website (`3 months ago`)
 
@@ -57,7 +57,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. (`3 weeks ago`)
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. (`4 weeks ago`)
 - [peakoss/anti-slop](https://github.com/peakoss/anti-slop) - A GitHub action that detects and automatically closes low-quality and AI slop PRs. (`1 month ago`)
 - [ConnorGraham/Minecraft-Nintendo-Switch-Private-Server](https://github.com/ConnorGraham/Minecraft-Nintendo-Switch-Private-Server) -  (`1 month ago`)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (`1 month ago`)
