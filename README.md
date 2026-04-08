@@ -51,8 +51,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 
 - [Minarox/Custom-Nginx-Server](https://github.com/Minarox/Custom-Nginx-Server) - Simple Nginx docker image with custom config
 - [Minarox/Website](https://github.com/Minarox/Website) - Minarox website
-- [Minarox/WSC-Server](https://github.com/Minarox/WSC-Server) - WebSocket server for testing communication with WebSocket Client plugin
-- [Minarox/WSC-Documentation](https://github.com/Minarox/WSC-Documentation) - Documentation for WebSocket Client plugin
+- [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place
+- [Minarox/WSC-Plugin](https://github.com/Minarox/WSC-Plugin) - Bi-directionnal communication between WebSocket server and Rocket League
 
 #### ⭐ Some very good discoveries
 
