@@ -57,7 +57,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (`1 day ago`)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (`2 days ago`)
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let&#39;s Encrypt) client. It also contains fail2ban for intrusion prevention. (`1 month ago`)
 - [repugraf/gst-kit](https://github.com/repugraf/gst-kit) - Node.js binding for GStreamer, providing high-level APIs for multimedia streaming and processing (`1 month ago`)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. (`2 months ago`)
