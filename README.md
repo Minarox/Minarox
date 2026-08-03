@@ -57,8 +57,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`4 days ago`)
-- [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) - Find the fastest DNS in your location to improve internet browsing experience. (`6 days ago`)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`5 days ago`)
+- [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) - Find the fastest DNS in your location to improve internet browsing experience. (`1 week ago`)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (`1 month ago`)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (`1 month ago`)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. (`2 months ago`)
