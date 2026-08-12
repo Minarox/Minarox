@@ -44,7 +44,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 - [Minarox/RaceCast-Receiver](https://github.com/Minarox/RaceCast-Receiver) -  (`1 month ago`)
 - [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`6 months ago`)
 - [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`6 months ago`)
-- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`7 months ago`)
+- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`8 months ago`)
 
 #### 🌱 My latest projects
 
@@ -57,7 +57,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`1 week ago`)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`2 weeks ago`)
 - [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) - Find the fastest DNS in your location to improve internet browsing experience. (`2 weeks ago`)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (`1 month ago`)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (`1 month ago`)
