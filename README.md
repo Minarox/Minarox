@@ -41,7 +41,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### 🔭 I’m currently working on
 
 
-- [Minarox/RaceCast-Receiver](https://github.com/Minarox/RaceCast-Receiver) -  (`1 week ago`)
+- [Minarox/RaceCast-Receiver](https://github.com/Minarox/RaceCast-Receiver) -  (`2 weeks ago`)
 - [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`7 months ago`)
 - [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`7 months ago`)
 - [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`9 months ago`)
@@ -57,7 +57,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### ⭐ Some very good discoveries
 
 
-- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (`6 days ago`)
+- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (`1 week ago`)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`1 month ago`)
 - [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) - Find the fastest DNS in your location to improve internet browsing experience. (`1 month ago`)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill &#43; proxy for coding agents that cuts 65% of tokens by talking like a caveman. (`2 months ago`)
