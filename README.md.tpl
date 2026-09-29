@@ -16,9 +16,9 @@
 ---
 <div style="text-align: justify">
 
-25 years old full-stack developer from the south of France, also known as "[Minarox](https://minarox.fr)" on the internet.
+26 years old full-stack developer from the south of France, also known as "[Minarox](https://minarox.fr)" on the internet.
 Self-taught and passionate about new technologies, computing, and audiovisual, I like to stay informed about technological news to best address today's problems.
-Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](https://alpes-esport.fr) and Monster Gaming as developer, live producer, cameraman, video editor and Overwatch player.
+Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](https://alpes-esport.fr) as developer, live producer, cameraman and video editor.
 
 </div>
 
