@@ -16,9 +16,9 @@
 ---
 <div style="text-align: justify">
 
-25 years old full-stack developer from the south of France, also known as "[Minarox](https://minarox.fr)" on the internet.
+26 years old full-stack developer from the south of France, also known as "[Minarox](https://minarox.fr)" on the internet.
 Self-taught and passionate about new technologies, computing, and audiovisual, I like to stay informed about technological news to best address today's problems.
-Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](https://alpes-esport.fr) and Monster Gaming as developer, live producer, cameraman, video editor and Overwatch player.
+Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](https://alpes-esport.fr) as developer, live producer, cameraman and video editor.
 
 </div>
 
@@ -41,10 +41,10 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr), [Alpes Esport](ht
 #### 🔭 I’m currently working on
 
 
+- [Minarox/RaceCast-Emitter](https://github.com/Minarox/RaceCast-Emitter) - Onboard autonomous IoT project to capture and transmit data and media stream from a race car (`today`)
 - [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`8 months ago`)
 - [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`8 months ago`)
 - [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`9 months ago`)
-- [Minarox/Website](https://github.com/Minarox/Website) - Minarox website (`9 months ago`)
 
 #### 🌱 My latest projects
 
