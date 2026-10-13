@@ -41,9 +41,9 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 #### 🔭 I’m currently working on
 
 
-- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`3 days ago`)
-- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`5 days ago`)
-- [Minarox/RaceCast-Emitter](https://github.com/Minarox/RaceCast-Emitter) - Onboard autonomous IoT project to capture and transmit data and media stream from a race car (`6 days ago`)
+- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`4 days ago`)
+- [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`6 days ago`)
+- [Minarox/RaceCast-Emitter](https://github.com/Minarox/RaceCast-Emitter) - Onboard autonomous IoT project to capture and transmit data and media stream from a race car (`1 week ago`)
 - [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`8 months ago`)
 
 #### 🌱 My latest projects
@@ -57,8 +57,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 #### ⭐ Some very good discoveries
 
 
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (`6 days ago`)
-- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (`6 days ago`)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (`1 week ago`)
+- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (`1 week ago`)
 - [robtme/satisfactory-server](https://github.com/robtme/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (`4 weeks ago`)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`2 months ago`)
 - [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) - Find the fastest DNS in your location to improve internet browsing experience. (`2 months ago`)
