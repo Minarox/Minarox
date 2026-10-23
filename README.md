@@ -42,7 +42,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 
 
 - [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`1 week ago`)
-- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`1 week ago`)
+- [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`2 weeks ago`)
 - [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`2 weeks ago`)
 - [Minarox/RaceCast-Emitter](https://github.com/Minarox/RaceCast-Emitter) - Onboard autonomous IoT project to capture and transmit data and media stream from a race car (`2 weeks ago`)
 
