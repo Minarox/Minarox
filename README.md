@@ -44,7 +44,7 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 - [Minarox/Linkub](https://github.com/Minarox/Linkub) - All links in one place (`1 week ago`)
 - [StudioRvAndCo/Website](https://github.com/StudioRvAndCo/Website) - Website of the Studio Rv &amp; Co association. (`2 weeks ago`)
 - [Minarox/RaceCast-Front](https://github.com/Minarox/RaceCast-Front) - Web dashboard for displaying race car data stream (`2 weeks ago`)
-- [Minarox/RaceCast-Emitter](https://github.com/Minarox/RaceCast-Emitter) - Onboard autonomous IoT project to capture and transmit data and media stream from a race car (`2 weeks ago`)
+- [Minarox/RaceCast-Emitter](https://github.com/Minarox/RaceCast-Emitter) - Onboard autonomous IoT project to capture and transmit data and media stream from a race car (`3 weeks ago`)
 
 #### 🌱 My latest projects
 
@@ -57,8 +57,8 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 #### ⭐ Some very good discoveries
 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (`1 week ago`)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (`2 weeks ago`)
-- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (`2 weeks ago`)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (`2 weeks ago`)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (`3 weeks ago`)
+- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (`3 weeks ago`)
 - [robtme/satisfactory-server](https://github.com/robtme/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (`1 month ago`)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`2 months ago`)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`3 months ago`)
