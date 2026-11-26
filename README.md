@@ -61,4 +61,4 @@ Part of the associations [Studio Rv & Co](https://rvandco.fr) and [Alpes Esport]
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust (`1 month ago`)
 - [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (`1 month ago`)
 - [robtme/satisfactory-server](https://github.com/robtme/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (`2 months ago`)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`3 months ago`)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (`4 months ago`)
